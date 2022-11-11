@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "stelarvision-280712",
+  "private_key_id": "133392ddf85b8a2e037671cbc9b47c992030a520",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvAIBADANBgkqhkiG9w0BAQEFAASCBKYwggSiAgEAAoIBAQCsuZYCm+tVPgJw\nRD6IzUrkpdOo4utOLOcXKAM4UK8NfYEipyRiByfcO8t1u0X0MzlOx+gAASTohPAB\nFjNNs4uK5hVP0giVJp1Lz1MM7+eJyzoiAaGPWGrcmrInm97YbYFrzSIH3Yvlx3MV\nWybrdtJVtRL6CsB/d84J+YPM9WRw4UaO2GB5Uf9CSV8Nf8pfqcMwwe+BalLuN8L9\neOw7cknR2sGr0++KSL+YIdgteqL4pzWYNGKvVnI7zK7J9GfvpqYoijdQ6t0oEhdZ\nYCmbbhVZavDqAYjthDRLTPKGFht/1Iog0zPycs7SgCJln4Hi4ZBENgQEMf3+xulR\nFo3h72X7AgMBAAECggEAUZLekYHgzWPZU/svC33lQoI8qdTtq4CSbUHE74pPelAN\nNnf4u2FExoLo7sPQ4Gl2xcmsvJ/NthDepqy88xP6MdHDO+zmh8ZyYFTclM4SrGWy\nIVBi5GeuJFzdCc7YGp/xESAS0+MiiJU/OVVQ1sDJypeXjEaarji/Mr/IKvq0Aoji\n3IoMzwsxkbuEZi+h509ij5tobgeDiL2cQz4hO9eVNrNHRFEE0+94IbcxRGfuHhR6\nBUbPw8lQ9qLLhQzNLlrcY5rxSgr0og+IT2F8BRS15yZs3QSkj6oqKpgPivp9MSn2\nEHWk7zr/NBjfuMrPHg/ADY18oxNHei4gpwu+AFbntQKBgQDlpGAbWq9HQPlnjxci\nunQDEK8gSvZlhfEmtJUeiG4RO3GtmI2dCgQudXPYUWvWO6h0oATQaHLN6moTx4Mp\n1gbq7DDR+KD6VaHpTkVEUwXNuS7cf9tEYBe0Ije/gRTarm31R6wLzXQOtz8kWyNx\nc748vrHhK11Inum/wEAIzEvtzwKBgQDAjM0pJGikmhoXrcB0eR513TgdkH/upVf1\nefAT79fNGGCAbLcIwMVcynd8Q1HWB9jRZ+/PVBn69QMwneObpNQoxefaNtv82+g5\n7fWxh9cEKiSINpvRm5T42D6IUn3Vc2dS7dMZdup1QuiX5ZVSCWOh4wYPQ88K3BoQ\nKxBqn/ncFQKBgH6TQrHxIymYI6A0G6F1uhoyaQTYrMU6tbgK0yK4OkrfRAJWUsAb\nVECzVn4GKvUzft+BkAW7fIQJUBzE3IQDx15Xf3VMoJY6+vqYvM8zH8DL8ItzIc2n\nVYlhTu8MXA1JFaybq7X5sZ2m3XPRlFClZlcfGPauq0Uq6lZZxjHTQYq7AoGAYGfe\n7MOC9S8G82YWXvqpip/JUdwgga8dXBXCY2kJpnGXF5XXCrXh2zSwIHJgTgY9w5MD\nmc3k+Camgzf6VtpvMz7rd/FRsce0/RQsmMeHm1kyU1TsLUV1kCZNINoUkMOoLvhO\nYoiMmUt3w126pol27f4J8aikyC4tinzVSl1wr4UCgYAxuP7ly6ntM9eGh3gdcrTv\nKyxEZdxZe4cDMgp93VXaSiIjGnaPVx1PkRDz+fK0ecgosVZab0hpeRRfM1SI8/yx\nJ0sJLc474A+URPusqJfB2LL52y2Wb6VXPr0YC/m90t3kr3BP0xYx3T4dCX0VYaaM\ntmmA0M+zFZ9zJnhzv83ABA==\n-----END PRIVATE KEY-----\n",
+  "client_email": "coleman-theme@stelarvision-280712.iam.gserviceaccount.com",
+  "client_id": "100323696333558549952",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/coleman-theme%40stelarvision-280712.iam.gserviceaccount.com"
+}
